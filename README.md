@@ -1,5 +1,7 @@
 # 🎮 so_long – My tiny 2D game
 
+![so_long gameplay](screen.png)
+
 Welcome to **so_long**, my **graphical 2D game in C**!  
 It’s a **top-down 2D game** where you explore a map, collect items, and escape.  
 Built with the **MiniLibX graphics library**, it’s simple, fun, and a great intro to event-driven programming.
@@ -7,8 +9,8 @@ Built with the **MiniLibX graphics library**, it’s simple, fun, and a great in
 ---
 
 ## 🕹 Gameplay 
-- You are the **cat**.  
-- Collect all the **collectibles**.  
+- You are the **kitty**.  
+- Collect all the **apples**.  
 - Find the **exit** and escape the map!  
 
 ---
